@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Adeel Khan. I am a Canadian living near Lake Ontario for 25 years (as of this year). I was born in Pakistan. I speak fluent English, Urdu and Hindi. I can understand a little bit of Punjabi.
+My name is Adeel Khan. I am a Canadian but I think globally. I have been fortunate to live around the around the Lake Ontario region for 25 years (as of this year). Lots to be grateful for and I have been a big fan of the library system across the region from Day 01. I was born in Pakistan and so I have seen and felt life from different contrasts. I speak fluent English, Urdu and Hindi. I can understand a little bit of Punjabi. My dream is to be a great parent, have good friends around, have wonderful experences each day and to meet friendly aliens.
 
 <!--
 **genidma/genidma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
