@@ -10,7 +10,8 @@ My name is Adeel Khan. I am a Canadian living near Lake Ontario for 25 years (as
 - 👯 I’m looking to collaborate on: Areas that I have highlighted.
 - 🤔 I’m looking for help with: Fundraising, team-building, setting the right culture and creating a great place to work.
 - 💬 Ask me about: My fascinatino with Ants and insects in general, liberties/freedom/reason/basic research, personal development. Related to personal development, feel free to check out my model, titled 'Architectural Foundations for Enabling one's basics - A proposed, non-clinicians model.' https://drive.google.com/file/d/1ZLAv3WT8q9p4eG98CxSYF8XbJ0a3W9Tj/view?pli=1 Overall, I consider myself a generalist who can go deeper and I know a little bit about different areas. I love Science and love listening to Scientists. I also like building models.
-- 📫 How to reach me: Linkedin: https://ca.linkedin.com/in/adeelkhan1
+- 📫 How to reach me:
+- Linkedin: https://ca.linkedin.com/in/adeelkhan1 | YT: https://www.youtube.com/c/AdeelKhan1/videos (I do not check notifications on there) | 10 min meeting (Please share agenda in advance): https://cal.com/singularityisnear/10min | Skype/Signal app/Whatsapp (Feel free to message me on Linkedin for contact info here)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I can imitate Geoffrey Hinton and Jurgen Schmidhuber's impressions
 - Links to my projects:
