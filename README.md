@@ -20,6 +20,8 @@ My name is Adeel Khan. I am a Canadian but I think globally. I have been fortuna
   - Awake AeroSpace: https://asi.surge.sh/
   - Longer slide deck: https://1drv.ms/p/s!AmvYbf58fXpWjln9bT0wnQpVNQLH?e=ApJ31Z 
   - At some point a decision was made to make the very high level details specific to the work being undertaken. This includes probably 60% of the work effort undertaken, but not all for safety/privacy/security specific reasons. https://sharing.clickup.com/l/h/4-3461412-1/88677a3e84aec47
-  - Shangrila-Veterans Healing Places: https://github.com/Shangrila-VHP/shangrila-vhp It looks like Shangrila-VHP is pivoting towards becoming a housing startup. If I can work with Veterans Affairs (worldwide) to have every single veteran and front-line staff under a roof that is safe in every way, then this alone would be a great service to humanity. 
+  - Shangrila-Veterans Healing Places: https://github.com/Shangrila-VHP/shangrila-vhp It looks like Shangrila-VHP is pivoting towards becoming a housing startup. If I can work with Veterans Affairs (worldwide) to have every single veteran and front-line staff under a roof that is safe in every way, then this alone would be a great service to humanity.
+  - Educate oneself - Boatcrew Level 01 (Exclusively via the Signal App): https://signal.group/#CjQKIEQfSLW40ldjPwQlNUBuC9s_lqaC7LIvA_tXa-9_L7klEhAV-x0hnIQxpIYO7fTEWF56
+  - - Useful Links: A document that I started drafting, as of 08-2x-2024: https://docs.google.com/document/d/1f2nse0aJqtCqGxun77tzophlF5Qzw3Go8wno2EbgUE0/edit?usp=sharing
 
 Cheers!
