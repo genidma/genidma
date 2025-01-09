@@ -11,14 +11,13 @@ My name is Adeel Khan. I am a Canadian but I think globally. I have been fortuna
 - 🤔 I’m looking for help with: Fundraising, team-building, setting the right culture and creating a great place to work.
 - 💬 Ask me about: My fascination with Ants and insects in general, liberties/freedom/reason/basic research, personal development. Related to personal development, feel free to check out my model, titled 'Architectural Foundations for Enabling one's basics - A proposed, non-clinicians model.' https://drive.google.com/file/d/1ZLAv3WT8q9p4eG98CxSYF8XbJ0a3W9Tj/view?pli=1 Overall, I consider myself a generalist who can go deeper and I know a little bit about different areas. I love Science and love listening to Scientists. I also like building models.
 - 📫 How to reach me:
-- Active on the Maven app from March 2024 till October 14, 2024: https://app.heymaven.com/profile/8685 | Not as active since June of 2024. Found it difficult to retype my thoughts on the app (on the phone) as you cannot scroll back up. I guess, I could use the web/desktop interface. Writing, in general requires full focus, the ability to iterate upon the mechanics of your proposition, thinking and then crafting your writing that is in alignment with your core audience. Primarily, I feel that it is the mechanics and reworking the mechanics is like how Sir. James Dyson worked on the initial version of the vaccum cleaner. It is my understanding that it took 5127 major iterations for the invention to find product/market fit. So one cannot expect to write something that may be on one's mind for a single/singular iteration. All great things take time and are a labor of love. I guess I do enjoy writing and I am intrigued by the activity of Story-Boarding. I actually have these thoughts that we can Story-Board any solution or reality into existence. Including Safe Super-Intelligence. But as Kurzweil (no affiliation) once pointed out (I think in 'The Singularity is Near'), the question is one of 'who's values.'. Another reason I deleted Maven was that I wasn't able to connect with individuals on a 1:1 basis. 
-- Linkedin: https://ca.linkedin.com/in/adeelkhan1
-- YT: https://www.youtube.com/c/AdeelKhan1/videos (I do not check notifications on there) 
-- 10 min meeting (Please share agenda in advance): https://cal.com/singularityisnear/10min
-- Skype/Signal app/Whatsapp (Feel free to message me on Linkedin for contact info here)
-- Quora (Not active on Quora or any other site at the moment): https://www.quora.com/profile/Adeel-Khan-3
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I can imitate Geoffrey Hinton and Jurgen Schmidhuber's impressions
+  - 10 min meeting (Please share agenda in advance): https://cal.com/singularityisnear/10min
+  - Linkedin: https://ca.linkedin.com/in/adeelkhan1
+  - YT: https://www.youtube.com/c/AdeelKhan1/videos (I do not check notifications on there)
+  - Skype/Signal app/Whatsapp (Feel free to message me on Linkedin for contact info for Skype/Signal e.t.c)
+  - Quora (Not exactly active on Quora or any other site at the moment): https://www.quora.com/profile/Adeel-Khan-3
+  - 😄 Pronouns: They/Them
+  - ⚡ Fun fact: I can imitate Geoffrey Hinton and Jurgen Schmidhuber's impressions
 - Links to my projects:
   - Awake Universal Healthcare: https://auh.surge.sh/
   - Awake AeroSpace: https://asi.surge.sh/
