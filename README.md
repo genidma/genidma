@@ -17,7 +17,7 @@ My name is Adeel Khan. I am a Canadian but I think globally. I have been fortuna
   - Skype/Signal app/Whatsapp (Feel free to message me on Linkedin for contact info for Skype/Signal e.t.c)
   - Quora (Not exactly active on Quora or any other site at the moment): https://www.quora.com/profile/Adeel-Khan-3
   - 😄 Pronouns: They/Them
-  - ⚡ Fun fact: I can imitate Geoffrey Hinton and Jurgen Schmidhuber's impressions
+  - ⚡ Fun fact: Cannot think of one at the moment. I would say that Daniel Tammet is a truly extra-ordinary individual! (No affiliation). We cannot even begin to imagine what incredibly achievements human beings must be thinking of and have thought of (and will think of).
 - Links to my projects:
   - Awake Universal Healthcare: https://auh.surge.sh/
   - Awake AeroSpace: https://asi.surge.sh/
