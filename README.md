@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Adeel Khan. I am a Canadian but I think globally. I have been fortunate to live around the around the Lake Ontario region for 25 years (as of this year). Lots to be grateful for and I have been a big fan of the library system across the region from Day 01.
+My name is Adeel Khan. I am a Canadian. I like Science.
 
 <!--
 **genidma/genidma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 One of my core philosophy is to leave a place slightly better vs how I experienced it. 
 - 🌱 I’m currently learning: Continue to learn from the books written by Steve Blank. In May of 2025, I want to learn how to use TinkerCAD properly.
-- 👯 I’m looking to collaborate on: Areas that I have highlighted.
+- 👯 I’m looking to collaborate on: Make a giant 3d-printer that can 3d-print an amazing house for billions of humans and their pets. Without harming the environment in any way. In fact, reversing the harm done to the biosphere and not have folks get hurt being stuck in the supply chain process (as what has been happening to workers minium lithium in Indonesia or workers dying each day working to construct newly proposed cities in the middle of the desert)
 - 🤔 I’m looking for help with: Connecting with people with a good relaxing energy. Who are focused on changing themselves for the better. Each day is a gift and an opportunity to improve kind of a mindset.
 - 💬 Ask me about: My model called 'Architectural Foundations for Enabling one's basics - A proposed, non-clinicians model.' https://drive.google.com/file/d/1ZLAv3WT8q9p4eG98CxSYF8XbJ0a3W9Tj/view?pli=1 
 - 📫 How to reach me:
