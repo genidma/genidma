@@ -6,9 +6,10 @@ My name is Adeel Khan. I am a Canadian. I like Science.
 **genidma/genidma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 One of my core philosophy is to leave a place slightly better vs how I experienced it. And the biggest problems are the biggest opportunities.
-- As of January of the year 2026:
-  - I am updating my new venture at [https://karmaconscience.org/](https://karmaconscience.org/) I hope you will be a part of this journey
-  - ASI/Awakened Imagination Group of projects (starting with [asi.surge.sh](https://github.com/stellardreams/asi.surge.sh/) ) were in a dormant state since the year 2022. With the rise of agentic AI, these projects are slowly but surely beginning to turn disruptive. (reference metaphor 6 D's of disruption. An innovation framework) 
+- As of April of the year 2026:
+  - I am working on an MVP for my very first full-stack app [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/) | on 04-28, the records are updating on the db. good start, if I should say so myself. 
+  - I continue to update my new venture at [https://karmaconscience.org/](https://karmaconscience.org/) I hope you will be a part of this journey!
+  - ASI/Awakened Imagination Group of projects (starting with [asi.surge.sh](https://github.com/stellardreams/asi.surge.sh/) ) has been in a somewhat dormant state since the year 2022. I'd like to at the very least start a [testnet](https://github.com/stellardreams/asi.surge.sh/issues/57) I have some other ideas, but I am very much interested in an open and collaborative nature for helping build the infrastructure in outer space (within reason) 
   - I am also writing a book. Well two books right now. I should really focus on one book at a time. I don't have the title for the first book, but it is to equip the dreamer to become a doer. By investing in their mindset and putting down the foundations via my [AFEB](https://drive.google.com/file/d/1ZLAv3WT8q9p4eG98CxSYF8XbJ0a3W9Tj/view?pli=1) model and then focusing on 'structure/form/discipline.' I've been focusing on the structure myself, and well, discipline. The other book is a series of questions and conversations with intelligences independent of a substrate and hopefully some stakeholders. The intention of the book is to help prepare for a reality whereby the conscious experience is noticable in the substrate independent intelligence. But first, we have to look for it.
   -  Last year (2025):
     -  I built [https://github.com/genidma/teatime-accessibility](https://github.com/genidma/teatime-accessibility) with the help of intelligences independent of a substrate
