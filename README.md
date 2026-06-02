@@ -28,6 +28,10 @@ One of my core philosophies is to leave a place slightly better than how I exper
   - Link: [https://karmaconscience.org/](https://karmaconscience.org/)
   - Goal: Learn from each other. Within reason.
 
+### Nov 2025
+- **whisper-opensesame** - Private repository. voice to text transcription powered by [openai's whisper](https://openai.com/index/whisper/)
+
+
 ### Ongoing Projects
 - **ASI/Awakened Imagination Group** - helping enable a world of abundance with no harm (or unintended consequences at that). 
   - Status: Dormant since 2022, planning to start a testnet
@@ -50,7 +54,7 @@ One of my core philosophies is to leave a place slightly better than how I exper
 - **DIY Computer Build** - Assembled computer for ~$60 CAD, significantly increasing productivity
 
 #### Future Projects
-- **back2school** - Private repository, considering integration with timer app
+- **back2school** - Private repository. Considering integration with timer app
   - Repository: [https://github.com/genidma/back2school](https://github.com/genidma/back2school)
   
 - **Second Books** - A body of work that could inform treatise and ethical guidelines around the issue of model-welfare
