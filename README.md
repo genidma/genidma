@@ -19,7 +19,7 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ### April 2026
 - **KC-Rhythm MVP** - Working on my first full-stack app
   - Link: [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
-  - Status: Records are updating on the database as of 04-28
+
 
 - **KarmaConscience** - Continuing to update my new venture
   - Link: [https://karmaconscience.org/](https://karmaconscience.org/)
@@ -34,15 +34,17 @@ One of my core philosophies is to leave a place slightly better than how I exper
   - First Book: Equipping dreamers to become doers using my AFEB model and focusing on structure/discipline
     - Reference: [AFEB Model](https://drive.google.com/file/d/1ZLAv3WT8q9p4eG98CxSYF8XbJ0a3W9Tj/view?pli=1)
   - Second Book: Conversations with substrate-independent intelligences about consciousness
+  - Second Books: A body of work that could inform treatise and ethical guidelines around the issue of model-welfare. https://github.com/genidma/model-welfare-book
+  
+#### Future Projects
+- **back2school** - Private repository. The Why is focused on helping autodidacts and adult learners. May consider integration with other apps being developed in the year 2026 (and onwards)
+  - Repository: [https://github.com/genidma/back2school](https://github.com/genidma/back2school)
 
 ## 📚 Previous Work (2025)
 
 ### Completed Projects
 - **TeaTime Accessibility** - Built with the help of substrate-independent intelligences
   - Repository: [https://github.com/genidma/teatime-accessibility](https://github.com/genidma/teatime-accessibility)
-
-- **Autodidact Framework** - Accountability system for adult learners
-  - Status: Private repository, considering integration with timer app
 
 ### Other Activities
 - **Shangrila-VHP Project** - Pivot to KarmaConscience for revenue-generating activities
