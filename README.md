@@ -58,15 +58,16 @@ One of my core philosophies is to leave a place slightly better than how I exper
   - Repository: [https://github.com/genidma/teatime-accessibility](https://github.com/genidma/teatime-accessibility)
   - [!NOTE] > Working on this app is what serendipitously lead to kc-rhythm. [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
 
-### Other Activities
-- **Shangrila-VHP Project** - Pivot to KarmaConscience for revenue-generating activities
-- **Research** - Investigated self-replicating 3D printer possibilities
-- **DIY Computer Build** - Assembled computer for ~$60 CAD, significantly increasing productivity
-
 ## 🌟 Sister Projects
+- **Shangrila-VHP Project** - Affordable housig at scale. In a way that heals the environment and leads to the inhabitants improving their health. Shangrila-VHP is and will always be veterans focused first. 
+  - Repository: [https://github.com/Shangrila-VHP/shangrila-vhp](https://github.com/Shangrila-VHP/shangrila-vhp)
 - **Awake Universal Healthcare**: [https://auh.surge.sh/](https://auh.surge.sh/)
 - **Longer Slide Deck**: [View Presentation](https://1drv.ms/p/s!AmvYbf58fXpWjln9bT0wnQpVNQLH?e=ApJ31Z)
 - **Useful Links Document**: [Google Doc](https://docs.google.com/document/d/1f2nse0aJqtCqGxun77tzophlF5Qzw3Go8wno2EbgUE0/edit?usp=sharing)
+
+### Other Activities
+- **Research** - Investigated self-replicating 3D printer possibilities
+- **DIY Computer Build** - Assembled computer for ~$60 CAD, significantly increasing productivity
 
 ## 📫 How to Reach Me
 - **Quick Meeting**: 10-minute slots available [here](https://cal.com/singularityisnear/10min) (share agenda in advance)
@@ -75,10 +76,10 @@ One of my core philosophies is to leave a place slightly better than how I exper
 - **Quora**: Not active, focused elsewhere
 
 ## 💡 Fun Fact
-On some days, I enjoy dancing to Roy Smoothe Jim Rohn mixes after waking up.
+I once met Jonathan Frakes (Commander. Riker in StarTrek) at ComicCon Toronto. Albeit briefly. That was really cool!
 
 ---
 
 Thanks for reading! 
 
-Cheers! 
+Ad astra!
