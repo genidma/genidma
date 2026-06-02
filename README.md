@@ -85,7 +85,7 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ### Completed Projects
 - **TeaTime Accessibility** - *Archived/Sunset* - a fun GUI based timer with a built-in statistics engine developed using tkinter, GTK and python on the linux desktop environment. 
   - Repository: [https://github.com/genidma/teatime-accessibility](https://github.com/genidma/teatime-accessibility)
-  - [!NOTE] > Working on this app is what serendipitously lead to kc-rhythm. [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
+  - note: Working on this app is what serendipitously lead to kc-rhythm. [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
 
 ## 📫 How to Reach Me
 - **Quick Meeting**: 10-minute slots available [here](https://cal.com/singularityisnear/10min) (share agenda in advance)
