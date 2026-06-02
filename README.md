@@ -54,8 +54,9 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ## 📚 Previous Work (2025)
 
 ### Completed Projects
-- **TeaTime Accessibility** - Built with the help of substrate-independent intelligences
+- **TeaTime Accessibility** - *Archived/Sunset* - a fun GUI based timer with a built-in statistics engine developed using tkinter, GTK and python on the linux desktop environment. 
   - Repository: [https://github.com/genidma/teatime-accessibility](https://github.com/genidma/teatime-accessibility)
+  - [!NOTE] > Working on this app is what serendipitously lead to kc-rhythm. [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
 
 ### Other Activities
 - **Shangrila-VHP Project** - Pivot to KarmaConscience for revenue-generating activities
