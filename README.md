@@ -23,7 +23,7 @@ One of my core philosophies is to leave a place slightly better than how I exper
 
 - **KarmaConscience** - Continuing to update my new venture
   - Link: [https://karmaconscience.org/](https://karmaconscience.org/)
-  - Goal: Hoping you'll join this journey!
+  - Goal: Learn from each other. Within reason.
 
 ### Ongoing Projects
 - **ASI/Awakened Imagination Group** - Researching substrate-independent intelligence infrastructure
