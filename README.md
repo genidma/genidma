@@ -30,7 +30,7 @@ One of my core philosophies is to leave a place slightly better than how I exper
 
 ### Nov 2025
 - **whisper-opensesame** - Private repository. voice to text transcription powered by [openai's whisper](https://openai.com/index/whisper/)
-- As of June of 2026, runs on an older apple computer that is atleast 12 years old (without a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+- As of June of 2026, runs on an older apple computer that is atleast 12 years old and without a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 - There are a few other private repos (not on the Readme), where a very preliminary set of code exists for developing knowledge graphs
 - For now, the standard voice to text transcription is deployed
 - Background: vs code speech extension stopped working on linux. I created an issue for it [here](https://github.com/microsoft/vscode/issues/273646) and the decision was that there was no plan to revive this functionality for linux in the future (see the link). I was looking for a solution that could:
