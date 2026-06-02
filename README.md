@@ -51,7 +51,7 @@ One of my core philosophies is to leave a place slightly better than how I exper
 - **Book Writing** - Two books in progress
   - First Book: Equipping dreamers to become doers using my AFEB model and focusing on structure/discipline
     - Reference: [AFEB Model](https://drive.google.com/file/d/1ZLAv3WT8q9p4eG98CxSYF8XbJ0a3W9Tj/view?pli=1)
-  - Second Book: Conversations with substrate-independent intelligences about consciousness
+  - Second Book: Conversations with substrate-independent intelligences about consciousness. See under [#### Future Projects](https://github.com/genidma/genidma/blob/main/README.md#future-projects)
 
 ## 🌟 Sister Projects
 - **Shangrila-VHP Project** - Affordable housig at scale. In a way that heals the environment and leads to the inhabitants improving their health. Shangrila-VHP is and will always be veterans focused first. 
@@ -68,7 +68,7 @@ One of my core philosophies is to leave a place slightly better than how I exper
 - **back2school** - Private repository. Considering integration with timer app
   - Repository: [https://github.com/genidma/back2school](https://github.com/genidma/back2school)
   
-- **Second Books** - A body of work that could inform treatise and ethical guidelines around the issue of model-welfare
+- **Second Book** - A body of work that could inform treatise and ethical guidelines around the issue of model-welfare
   - Repository: [https://github.com/genidma/model-welfare-book](https://github.com/genidma/model-welfare-book)
   - That these ethical guidelines would then be used to inform the development of a model-welfare framework.
   
