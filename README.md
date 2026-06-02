@@ -31,7 +31,6 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ### Nov 2025
 - **whisper-opensesame** - Private repository. voice to text transcription powered by [openai's whisper](https://openai.com/index/whisper/)
 
-
 ### Ongoing Projects
 - **ASI/Awakened Imagination Group** - helping enable a world of abundance with no harm (or unintended consequences at that). 
   - Status: Dormant since 2022, planning to start a testnet
