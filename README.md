@@ -15,11 +15,14 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ### June 2026
 - **Daily Productivity Checklist App** - Started working on a checklist app for daily productivity
   - Link: [https://kc-sail2.web.app](https://kc-sail2.web.app)
+ <img width="1113" height="756" alt="image" src="https://github.com/user-attachments/assets/15bf6b0c-295d-4970-b700-15e16872ede8" />
+
 
 ### April 2026
 - **KC-Rhythm MVP** - Working on my first full-stack app
   - Link: [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
   - Status: Records are updating on the database as of 04-28
+<img width="1113" height="756" alt="image" src="https://github.com/user-attachments/assets/aab31c75-f68d-4fd8-ad00-f785a2b652af" /> 
 
 - **KarmaConscience** - Continuing to update my new venture
   - Link: [https://karmaconscience.org/](https://karmaconscience.org/)
