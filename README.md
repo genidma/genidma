@@ -79,6 +79,8 @@ One of my core philosophies is to leave a place slightly better than how I exper
       C --> D[Establishment of norms, rules and behaviors]
       D --> E[Helping contribute to the enablement of treatise on associated topics]
   ```
+- **darya-genie** - A collection of ideas for helping cleanup rivers around the world. Which would help restore the ecology, stop the pollution going into oceans. And invariably help improve health for all lifeforms.
+  - Repository: [https://github.com/genidma/darya-genie](https://github.com/genidma/darya-genie)
 
 ## 📚 Previous Work (2025)
 
