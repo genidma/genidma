@@ -90,9 +90,11 @@ One of my core philosophies is to leave a place slightly better than how I exper
   - note: Working on this app is what serendipitously lead to kc-rhythm. [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
 
 ## 📫 How to Reach Me
+- **Write to me, if you'd like. But please keep it to 2 lines. Focus on, 'how can I help you.**: [https://karmaconscience.org/contact](https://karmaconscience.org/contact)
 - **Quick Meeting**: 10-minute slots available [here](https://cal.com/singularityisnear/10min) (share agenda in advance)
-- **LinkedIn**: [https://ca.linkedin.com/in/adeelkhan1](https://ca.linkedin.com/in/adeelkhan1)
 - **YouTube**: [https://www.youtube.com/c/AdeilKhan1/videos](https://www.youtube.com/c/AdeilKhan1/videos) *(notifications not checked)*
+- **Google Developer Profile**: [https://me.developers.google.com/u/genidma](https://me.developers.google.com/u/genidma)
+- **LinkedIn**: [https://ca.linkedin.com/in/adeelkhan1](https://ca.linkedin.com/in/adeelkhan1) *(if we haven't worked together and there are no plans to do so, then there is no need to connect on Linkedin. I will be actively purging stale connections on Linkedin)*
 - **Quora**: Not active, focused elsewhere
 
 ## 💡 Fun Fact
