@@ -24,7 +24,13 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ### April 2026
 - **KC-Rhythm MVP** - Working on my first full-stack app
   - Link: [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
-<img width="1113" height="756" alt="image" src="https://github.com/user-attachments/assets/aab31c75-f68d-4fd8-ad00-f785a2b652af" /> 
+  - Screenshots:
+    1. ![Screenshot 01](screenshots/kc-rhythm/06-24-2026/Screenshot01_2026-06-24_12-13-24.png)
+    2. ![Screenshot 02](screenshots/kc-rhythm/06-24-2026/Screenshot02_2026-06-24.png)
+    3. ![Screenshot 03](screenshots/kc-rhythm/06-24-2026/Screenshot03_main_timer_2026-06-24_12-16-08.png)
+    4. ![Screenshot 04](screenshots/kc-rhythm/06-24-2026/Screenshot04_2026-06-24.png)
+    5. ![Screenshot 05](screenshots/kc-rhythm/06-24-2026/Screenshot05_pulse_snapshot_2026-06-24_12-18-40.png)
+    6. ![Screenshot 06](screenshots/kc-rhythm/06-24-2026/Screenshot06_pulse_7day_2026-06-24_12-19-43.png)
 
 - **KarmaConscience** - Continuing to update my new venture
   - Link: [https://karmaconscience.org/](https://karmaconscience.org/)
