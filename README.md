@@ -15,7 +15,10 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ### June 2026
 - **Daily Productivity Checklist App** - Started working on a checklist app for daily productivity
   - Link: [https://kc-sail2.web.app](https://kc-sail2.web.app)
- <img width="1113" height="756" alt="image" src="https://github.com/user-attachments/assets/15bf6b0c-295d-4970-b700-15e16872ede8" />
+  - Screenshots:
+    1. ![Screenshot 01](screenshots/kc-sail/Screenshot_01.png)
+    2. ![Screenshot 02](screenshots/kc-sail/Screenshot_02_dashboard_top_05.png)
+    3. ![Screenshot 03](screenshots/kc-sail/Screenshot_03_dashboard_list_partial.png)
 
 
 ### April 2026
