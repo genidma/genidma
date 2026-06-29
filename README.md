@@ -13,7 +13,7 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ## 📋 Current Projects & Updates
 
 ### June 2026
-- **Daily Productivity Checklist App** - Started working on a checklist app for daily productivity
+- **Daily Productivity Checklist App** - Inspired by the teachings of Jim Rohn. We should not wish for better winds, but make a better sail. I've been planning on paper and thought to turn some of those ideas for a better checklist that keeps me honest and focused into a work in progress app
   - Link: [https://kc-sail2.web.app](https://kc-sail2.web.app)
   - Screenshots:
     1. ![Screenshot 01](screenshots/kc-sail/Screenshot_01.png)
