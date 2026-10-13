@@ -21,16 +21,16 @@ One of my core philosophies is to leave a place slightly better than how I exper
     3. ![Screenshot 03](screenshots/kc-sail/Screenshot_03_dashboard_list_partial.png)
 
 
-### April 2026
+### April 2026 - till October 2026
 - **KC-Rhythm MVP** - Working on my first full-stack app
   - Link: [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
   - Screenshots:
-    1. ![Screenshot 01](screenshots/kc-rhythm/06-24-2026/Screenshot01_2026-06-24_12-13-24.png)
-    2. ![Screenshot 02](screenshots/kc-rhythm/06-24-2026/Screenshot02_2026-06-24.png)
-    3. ![Screenshot 03](screenshots/kc-rhythm/06-24-2026/Screenshot03_main_timer_2026-06-24_12-16-08.png)
-    4. ![Screenshot 04](screenshots/kc-rhythm/06-24-2026/Screenshot04_2026-06-24.png)
-    5. ![Screenshot 05](screenshots/kc-rhythm/06-24-2026/Screenshot05_pulse_snapshot_2026-06-24_12-18-40.png)
-    6. ![Screenshot 06](screenshots/kc-rhythm/06-24-2026/Screenshot06_pulse_7day_2026-06-24_12-19-43.png)
+    1. ![Screenshot 01](screenshots/kc-rhythm/10-13-2026/rhythm.png)
+    2. ![Screenshot 02](screenshots/kc-rhythm/10-13-2026/timer.png)
+    3. ![Screenshot 03](screenshots/kc-rhythm/10-13-2026/main_sessions.png)
+    4. ![Screenshot 04](screenshots/kc-rhythm/10-13-2026/pulse.png)
+    5. ![Screenshot 05](screenshots/kc-rhythm/10-13-2026/trends.png)
+    6. ![Screenshot 06](screenshots/kc-rhythm/10-13-2026/profile_settings.png)
 
 - **KarmaConscience** - Continuing to update my new venture
   - Link: [https://karmaconscience.org/](https://karmaconscience.org/)
