@@ -12,6 +12,19 @@ One of my core philosophies is to leave a place slightly better than how I exper
 
 ## 📋 Current Projects & Updates
 
+### July 2026
+- **MySupportBuddy** - Google x Kaggle Vibe Coding Agents Capstone submission
+  - Link: [https://mysupportbuddy-170198436835.us-central1.run.app/](https://mysupportbuddy-170198436835.us-central1.run.app/)
+  - Kaggle Writeup: [https://kaggle.com/competitions/vibecoding-agents-capstone-project/writeups/mysupportbuddy](https://kaggle.com/competitions/vibecoding-agents-capstone-project/writeups/mysupportbuddy)
+
+- **Karesansui** - LLM powered art generator using ASCII (suggest to deploy NVIDIA models)
+  - Repository: [https://github.com/genidma/karesansui](https://github.com/genidma/karesansui)
+
+- **Delta-Sync** - Secure app to transfer short notes for folks low on hearing
+  - Link: [https://delta-sync-10293.web.app/transmit](https://delta-sync-10293.web.app/transmit)
+  - Repository: [https://github.com/genidma/delta-sync](https://github.com/genidma/delta-sync)
+
+
 ### June 2026
 - **Daily Productivity Checklist App** - Inspired by the teachings of Jim Rohn. We should not wish for better winds, but make a better sail. I've been planning on paper and thought to turn some of those ideas for a better checklist that keeps me honest and focused into a work in progress app
   - Link: [https://kc-sail2.web.app](https://kc-sail2.web.app)
