@@ -16,8 +16,9 @@ One of my core philosophies is to leave a place slightly better than how I exper
 - **MySupportBuddy** - Google x Kaggle Vibe Coding Agents Capstone submission
   - Link: [https://mysupportbuddy-170198436835.us-central1.run.app/](https://mysupportbuddy-170198436835.us-central1.run.app/)
   - Kaggle Writeup: [https://kaggle.com/competitions/vibecoding-agents-capstone-project/writeups/mysupportbuddy](https://kaggle.com/competitions/vibecoding-agents-capstone-project/writeups/mysupportbuddy)
-  > [!NOTE]
-  > This project has been paused. But in consultation with individuals with accredited backgrounds, this project can be revived at any time. Thank you sincerely.
+
+> [!NOTE]
+> This project has been paused. But in consultation with individuals with accredited backgrounds, this project can be revived at any time. Thank you sincerely.
 
 - **Karesansui** - LLM powered art generator using ASCII (suggest to deploy NVIDIA models)
   - Repository: [https://github.com/genidma/karesansui](https://github.com/genidma/karesansui)
