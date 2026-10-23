@@ -15,7 +15,13 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ### October 2026
 - **Modular Arctic Wind Turbine Architecture (50 kW)** - Rapidly deployable, containerized polar wind power generation system engineered for extreme northern conditions (−60 °C operation, 20 ft ISO container logistics, crane-less gin-pole tilt-up erection, and hybrid microgrid integration)
   - Standalone Repository: [https://github.com/stellardreams/modular-arctic-wind](https://github.com/stellardreams/modular-arctic-wind)
+  - Consolidated Release: [Release v1.0.0](https://github.com/stellardreams/modular-arctic-wind/releases/tag/v1.0.0)
   - Parent Ecosystem (`AMU`, `CORA-M`, `STRIDER-M`): [https://github.com/stellardreams/asi.surge.sh](https://github.com/stellardreams/asi.surge.sh)
+  - Visuals:
+    1. ![Modular Wind Turbine v3.1 Fully Commissioned](screenshots/modular-arctic-wind/10-2026/wind_v3_erected_full.png)
+    2. ![Cooperative Arctic Field Assembly Scene](screenshots/modular-arctic-wind/10-2026/field_assembly_isometric.png)
+    3. ![360° FreeCAD Solid Model Turntable](screenshots/modular-arctic-wind/10-2026/wind_v3_turntable.gif)
+    4. ![Crane-Less Gin-Pole Tilt-Up Erection Animation](screenshots/modular-arctic-wind/10-2026/wind_v3_erection.gif)
 
 ### July 2026
 - **MySupportBuddy** - Google x Kaggle Vibe Coding Agents Capstone submission
