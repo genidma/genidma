@@ -13,7 +13,7 @@ One of my core philosophies is to leave a place slightly better than how I exper
 ## 📋 Current Projects & Updates
 
 ### October 2026
-- **Modular Arctic Wind Turbine Architecture (50 kW)** - Rapidly deployable, containerized polar wind power generation system engineered for extreme northern conditions (−60 °C operation, 20 ft ISO container logistics, crane-less gin-pole tilt-up erection, and hybrid microgrid integration)
+- **Modular Arctic Wind Turbine Architecture (50 kW)** - Rapidly deployable, containerized polar wind power generation system engineered for extreme northern conditions (−60 °C operation, 20 ft ISO container logistics, crane-less gin-pole tilt-up mechanism, and hybrid microgrid integration)
   - Standalone Repository: [https://github.com/stellardreams/modular-arctic-wind](https://github.com/stellardreams/modular-arctic-wind)
   - Consolidated Release: [Release v1.0.0](https://github.com/stellardreams/modular-arctic-wind/releases/tag/v1.0.0)
   - Parent Ecosystem (`AMU`, `CORA-M`, `STRIDER-M`): [https://github.com/stellardreams/asi.surge.sh](https://github.com/stellardreams/asi.surge.sh)
