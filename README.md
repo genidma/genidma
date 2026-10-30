@@ -52,12 +52,28 @@ One of my core philosophies is to leave a place slightly better than how I exper
 - **KC-Rhythm MVP** - Working on my first full-stack app
   - Link: [https://kc-rhythm.web.app/](https://kc-rhythm.web.app/)
   - Screenshots:
-    1. ![Screenshot 01](screenshots/kc-rhythm/10-13-2026/rhythm.png)
-    2. ![Screenshot 02](screenshots/kc-rhythm/10-13-2026/timer.png)
-    3. ![Screenshot 03](screenshots/kc-rhythm/10-13-2026/main_sessions.png)
-    4. ![Screenshot 04](screenshots/kc-rhythm/10-13-2026/pulse.png)
-    5. ![Screenshot 05](screenshots/kc-rhythm/10-13-2026/trends.png)
-    6. ![Screenshot 06](screenshots/kc-rhythm/10-13-2026/profile_settings.png)
+    - **Timer & Sub-Timers**
+      1. ![Timer Standby](screenshots/kc-rhythm/10-30-2026/timer-standby.png)
+      2. ![Timer Initiated](screenshots/kc-rhythm/10-30-2026/timer-initiated.png)
+      3. ![Timer within Timer 01](screenshots/kc-rhythm/10-30-2026/Timer-within-timer-01.PNG)
+      4. ![Timer within Timer 02](screenshots/kc-rhythm/10-30-2026/Timer-within-timer-02.PNG)
+    - **Sessions View**
+      1. ![Sessions View 01](screenshots/kc-rhythm/10-30-2026/Sessions-view-01.PNG)
+      2. ![Sessions View 02](screenshots/kc-rhythm/10-30-2026/Sessions-view-02.PNG)
+    - **Stats - Rhythm & Flow**
+      1. ![Stats Rhythm 01](screenshots/kc-rhythm/10-30-2026/Stats-Rhythm-01.PNG)
+      2. ![Stats Rhythm 02](screenshots/kc-rhythm/10-30-2026/Stats-Rhythm-02.PNG)
+      3. ![Stats Flow 01](screenshots/kc-rhythm/10-30-2026/Stats-Flow-01.PNG)
+      4. ![Stats Flow 02](screenshots/kc-rhythm/10-30-2026/Stats-Flow-02.PNG)
+    - **Stats - Pulse & Trends**
+      1. ![Stats Pulse 30d](screenshots/kc-rhythm/10-30-2026/Stats-Pulse-30d.PNG)
+      2. ![Stats Pulse 7d](screenshots/kc-rhythm/10-30-2026/Stats-Pulse-7d.PNG)
+      3. ![Stats Pulse Today](screenshots/kc-rhythm/10-30-2026/Stats-Pulse-Today.PNG)
+      4. ![Stats Pulse Ledger](screenshots/kc-rhythm/10-30-2026/Stats-Pulse-Ledger.PNG)
+      5. ![Trends](screenshots/kc-rhythm/10-30-2026/Trends.PNG)
+    - **Profile**
+      1. ![Profile 01](screenshots/kc-rhythm/10-30-2026/profile_01.PNG)
+      2. ![Profile 02](screenshots/kc-rhythm/10-30-2026/profile_02.PNG)
 
 - **KarmaConscience** - Continuing to update my new venture
   - Link: [https://karmaconscience.org/](https://karmaconscience.org/)
