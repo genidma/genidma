@@ -8,7 +8,11 @@ My name is Adeel Khan. I am a Canadian. I like Science.
 ---
 
 ## 🎯 Core Philosophy
-One of my core philosophies is to leave a place slightly better than how I experienced it. The biggest problems present the biggest opportunities.
+- **The Scout Principle**: Leave a place slightly better than how I experienced it.
+- **Rutherford's Maxim**:
+  > *"We haven't got the money, so we've got to think."*  
+  > — Ernest Rutherford (Applied in [asi.surge.sh v1.3.1](https://github.com/stellardreams/asi.surge.sh/releases#release-v1.3.1))
+- **Problem as Opportunity**: The biggest problems present the biggest opportunities.
 
 ## 📋 Current Projects & Updates
 
