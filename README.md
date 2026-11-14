@@ -16,6 +16,15 @@ My name is Adeel Khan. I am a Canadian. I like Science.
 
 ## 📋 Current Projects & Updates
 
+### November 2026
+- **KC-SpineGuard** - Sciatica recovery companion, biomechanical lumbar log, and physical therapy toolkit
+  - Production Web App: [https://kc-spineguard.web.app](https://kc-spineguard.web.app)
+  - Public Repository: [https://github.com/genidma/kc-spineguard](https://github.com/genidma/kc-spineguard)
+  - Release: [Release v1.1.0](https://github.com/genidma/kc-spineguard/releases/tag/v1.1.0)
+  - Screenshots:
+    1. ![Today Recovery Dashboard](screenshots/kc-spineguard/01-today-dashboard.png)
+    2. ![Deep Squat (Malasana) Kinematic Visual & Stretch Timer](screenshots/kc-spineguard/02-deep-squat-kinematics.png)
+
 ### October 2026
 - **Modular Arctic Wind Turbine Architecture (50 kW)** - **Concept**: Rapidly deployable, containerized polar wind power generation system engineered for extreme northern conditions (−60 °C operation, 20 ft ISO container logistics, crane-less gin-pole tilt-up mechanism, and hybrid microgrid integration)
   - Standalone Repository: [https://github.com/stellardreams/modular-arctic-wind](https://github.com/stellardreams/modular-arctic-wind)
